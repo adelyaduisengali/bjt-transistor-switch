@@ -1,4 +1,4 @@
-<img width="828" height="1152" alt="image" src="https://github.com/user-attachments/assets/da25c4e0-c99e-448c-990a-3039512d4ced" /># BJT Transistor Switching & Bias Control Circuit
+# BJT Transistor Switching & Bias Control Circuit
 
 A solid-state switching circuit using an NPN bipolar junction transistor (BJT)
 to control an LED from a 9 V DC supply. Built on a breadboard in the Electronics
@@ -20,25 +20,24 @@ lab at Astana IT University and recreated as a simulation in Autodesk Tinkercad.
 - Analysed transistor biasing, switching threshold and load protection
 
 ## Components
-NPN BJT · LED · 9 V battery · potentiometer · 1 kΩ and 470 Ω resistors · breadboard
+NPN BJT · LED · 9 V battery · 10 kΩ potentiometer · 1 kΩ and 470 Ω resistors · breadboard
 
 ## Demo
 **Real circuit (Electronics lab):**
-<img width="828" height="1152" alt="image" src="https://github.com/user-attachments/assets/99d654a1-7d48-4520-a873-0b5e7b3a5972" />
+
+<img width="828" height="1152" alt="image" src="https://github.com/user-attachments/assets/cac4afde-b917-4b87-b771-466bea97a065" />
 
 
 **Video:**
 
-
-https://github.com/user-attachments/assets/eada2afa-b4bf-438b-86ed-cd569bc0ac8a
-
-
+https://github.com/user-attachments/assets/dfae2212-7a50-41e0-a163-053e884f0497
 
 **Tinkercad simulation:**
-<img width="1280" height="811" alt="image" src="https://github.com/user-attachments/assets/74393810-ef05-4086-b4a3-0aabd2d068d3" />
+
+<img width="1280" height="811" alt="image" src="https://github.com/user-attachments/assets/d46f5b14-a076-47f2-96b1-ece44ee76de6" />
 
 
-Interactive simulation: (https://www.tinkercad.com/things/gUp1OqHdXN9-bjt-transistor-switch)
+Interactive simulation: https://www.tinkercad.com/things/gUp1OqHdXN9-bjt-transistor-switch
 
 ## Skills
 Circuit assembly · Transistor biasing · Voltage dividers · Current limiting ·
